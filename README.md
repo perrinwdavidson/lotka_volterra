@@ -1,5 +1,4 @@
 # Lotka-Volterra Model
-=======================
 ## How to run the model
 [1] Navigate to the build directory: ```cd build```
 [2] Compile the program: ```make```
