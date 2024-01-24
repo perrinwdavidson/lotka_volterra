@@ -1,5 +1,5 @@
 # Lotka-Volterra Model
-Perrin Davidson (perrinwdavidson@gmail.com)
+Please feel free to email me at [perrinwd@mit.edu](mailto:perrinwdavidson@gmail.com).
 ## How to run the model
 1. Navigate to the build directory: ```cd build```
 2. Compile the program: ```make```
