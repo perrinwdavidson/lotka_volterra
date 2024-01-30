@@ -20,8 +20,8 @@ SRCDIR = $(BASEPATH)/code
 TARGET = $(BUILDDIR)/lotka_volterra
 SRC = $(SRCDIR)/lotka_volterra
 
-#	set debug flags ::
-FCFLAGS = -g -ffpe-trap=zero,invalid,overflow,underflow
+#	set debug flags :: 
+FCFLAGS = -g -ffpe-trap=zero,invalid,overflow,underflow 
 
 #	set main.o path ::
 OBJECTS = $(TARGET).o
